@@ -7,11 +7,12 @@ readme = "README.md"
 packages = []
 
 [tool.poetry.dependencies]
-python = "3.10.8"
 jupyter = "^1.0.0"
 matplotlib = "^3.7.1"
 nltk = "^3.8.1"
 pandas = ">=1"
+python = "3.10.8"
+pytest = ">=7"
 
 
 [build-system]
