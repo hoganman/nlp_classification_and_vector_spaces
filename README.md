@@ -14,4 +14,8 @@ as the source of the slides.
 I declare that these slides are for educational use only and I cite DeepLearning.AI as
 as the source.
 
-## Week 1 - Logistic Regression and Sentiment Prediction (Happy/Sad)
+## Course Outline
+
+ * Week 1 - Logistic Regression and Sentiment Prediction (Happy/Sad)
+ * Week 2 - Sentiment Analysis with Naïve Bayes
+ * 
