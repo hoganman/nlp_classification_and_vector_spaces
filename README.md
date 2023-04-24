@@ -1,5 +1,16 @@
 # nlp_classification_and_vector_spaces
 
+## Dependencies
+
+Libraries:
+ * Python 3.7.*
+ * Poetry
+ * NLTK
+ * SciPy
+ * Matplotlib
+
+## Description
+
 This repository is a collection of examples and course work for the Coursera course
 titled __Natural Language Processing with Classification and Vector Spaces__
 
@@ -18,4 +29,4 @@ as the source.
 
  * Week 1 - Logistic Regression and Sentiment Prediction (Happy/Sad)
  * Week 2 - Sentiment Analysis with Naïve Bayes
- * 
+ * Week 3 - Vector Space Models
