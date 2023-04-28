@@ -14,6 +14,19 @@ Libraries:
 This repository is a collection of examples and course work for the Coursera course
 titled __Natural Language Processing with Classification and Vector Spaces__
 
+Skills learned include: 
+ * Naive Bayes,
+ * Logistic regression,
+ * Embeddings, 
+ * KNN, 
+ * Locally sensitive hashing (LSH), 
+ * Machine translation, 
+ * Document search.
+
+## Certification
+
+Verify at https://coursera.org/verify/8NFKHVELZYKS
+
 ## License Notice
 ```text
 DeepLearning.AI makes these slides available for educational purposes. You may not use 
@@ -30,3 +43,4 @@ as the source.
  * Week 1 - Logistic Regression and Sentiment Prediction (Happy/Sad)
  * Week 2 - Sentiment Analysis with Naïve Bayes
  * Week 3 - Vector Space Models
+ * Week 4 - Machine Translation and Document Search
